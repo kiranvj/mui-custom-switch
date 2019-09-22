@@ -1,0 +1,17 @@
+.switch {
+  height: 27px;
+  width: 27px;
+  border-radius: 30px;
+  display: flex;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.switch.checked {
+  background-color: #89d329;
+  color: #FFF;
+}
+.switch.unchecked {
+  background-color: red;
+  color: #FFF;
+}
