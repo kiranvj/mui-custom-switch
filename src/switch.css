@@ -9,9 +9,9 @@
 }
 .switch.checked {
   background-color: #89d329;
-  color: #FFF;
+  color: #fff;
 }
 .switch.unchecked {
   background-color: red;
-  color: #FFF;
+  color: #fff;
 }
